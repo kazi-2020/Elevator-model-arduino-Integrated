@@ -29,3 +29,7 @@ A built in safety feature is when a elevator is in any single floor and the post
 The display shows current floor and the ascending and descending status of the elevator. It also shows the calibraton and if the elevator has been misplaced, it gives the error message.
 
 The arduino, senors can be powered over usb power, the 12V DC power supply is for the motor.
+
+
+[pic1]: Elevator-model-arduino-Integrated/005.JPG
+[pic2]: Elevator-model-arduino-Integrated/004.JPG
