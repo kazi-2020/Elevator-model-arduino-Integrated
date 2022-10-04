@@ -22,7 +22,7 @@ The electronics used here are
 ***
 
 # Working Of the Model
-The IR sensors are places on the different locations mimicing different floors.
+The IR sensors are places on the different locations mimicking different floors.
 When the model is booted up, there is an initial calibration where the elevator moves to the lowest floor.
 The Toggle switches are wired for the respective floors. When the button for a floor is pressed, the elevator moves to the appropriate floor.
 A built in safety feature is when a elevator is in any single floor and the postion of the elevator gets misplaces, the elevator moves to the floor one below from which the elevators last position was.
